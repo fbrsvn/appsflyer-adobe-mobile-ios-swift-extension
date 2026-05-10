@@ -17,7 +17,7 @@
 <!---đ
 ## <a id="breaking-changes"> 	❗❗ Breaking changes when updating to ✏️v*.*.*✏️❗❗
 
-✏️✏️ Breaking changes if there is  ✏️✏️ 
+✏️✏️ Breaking changes if there is  ✏️✏️ t
 
 ## <a id="migration"> ⏩ Migration -->
 
